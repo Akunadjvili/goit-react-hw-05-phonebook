@@ -1,0 +1,10 @@
+.AppBar {
+  /* grid-area: header; */
+}
+.logo-link {
+  display: block;
+  padding: 10px 0;
+  font-size: 200%;
+  font-weight: bold;
+  color: rgba(50, 50, 250, 0.89);
+}

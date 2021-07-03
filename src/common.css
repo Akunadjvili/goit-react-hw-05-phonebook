@@ -1,0 +1,39 @@
+ul,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+  padding: 0;
+}
+li {
+  list-style: disc;
+}
+a {
+  text-decoration: none;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: inherit;
+}
+
+body {
+  /* min-height: 100vh;
+  margin: 0;
+  padding-top: 20px; */
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
